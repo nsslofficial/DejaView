@@ -75,7 +75,7 @@ cd ../..
 
 **Download the dataset:**
 You can download the sample point cloud dataset required to run these experiments from our Google Drive:
-👉 **[Download Dataset (Google Drive) - Link Coming Soon](#)**
+👉 **[Download Dataset (Google Drive) - Link Coming Soon](https://zenodo.org/records/19958831?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImI5NDc2MWY3LTRjZTgtNGZjZi1hM2QyLWJiZjZjZTQzYjA4ZSIsImRhdGEiOnt9LCJyYW5kb20iOiI1MGJjZjlhYjBmMjljYjc5ZTk3NjJlZWM2OWU4YmRlMiJ9.v6aZ1lks8cwpfpLVXbA4nb-ZC2oewJp4vyPGlieBrk7ePDmjQflWRsFQowyNLNCKv-u_kidDvS0_ab1Jl7TvAw)**
 
 Once downloaded, extract the contents and place them in a `sample_data/` directory located in the root of this repository.
 
