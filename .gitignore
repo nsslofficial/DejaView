@@ -34,3 +34,4 @@ bash_scripts/*.log
 # if you want users to download it themselves, but if you want to include it, 
 # this rule at least keeps its build artifacts out:
 mpeg-pcc-tmc13-*/build/
+*.zip

@@ -128,6 +128,15 @@ As the scripts complete, the evaluation metrics (PSNR and Chamfer Distance) will
 ---
 
 ## Citation
-If you use this code in your research, please consider citing our paper.
+If you use this code in your research, please consider citing our paper:
 
-**Full BibTeX coming soon.**
+```bibtex
+@inproceedings{khalid2026dejaview,
+  title={Been There, Scanned That: Nostalgia-Driven Point Cloud Compression for Self-Driving Cars},
+  author={Khalid, A. and Mobin, J. and Appala, S. and Maurya, A. and Perez, S. and Rafique, M. and Ahmad, F.},
+  booktitle={ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys '26)},
+  year={2026},
+  isbn={979-8-4007-2309-4/26/05},
+  doi={10.1145/3774906.3800467}
+}
+```
